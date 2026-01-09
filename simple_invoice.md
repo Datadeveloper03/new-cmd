@@ -16,9 +16,9 @@ ExideIndustriesItdMADURAl, (0000069131)SNKTYRES&BATTERIES,70FEETROAD,NEWELLIS
 
 Kappalur,Madurai,TamilNadu-625008 MADURAI-,625016,
 
-| PhNo.:6380865048,FaxNo.: | PhNo.:9094402317FaxNo.: | InvoiceNo    | ：1387549427 | IssueDate:06.08.2025 |
-|--------------------------|-------------------------|--------------|-------------|----------------------|
-| GSTIN:33AAACE6641E1Z2    | GSTIN:33BPZPS0887J1ZX   | SalesOrderNo | ：251031144  |                      |
+| PhNo.:6380865048,FaxNo.: | PhNo.:9094402317FaxNo.: | InvoiceNo | ：1387549427 | IssueDate:06.08.2025 |
+| --- | --- | --- | --- | --- |
+| GSTIN:33AAACE6641E1Z2 | GSTIN:33BPZPS0887J1ZX | SalesOrderNo | ：251031144 |
 
 State:Tamilnadu,StateCode:33. Delivery No ：139656444
 
@@ -27,7 +27,7 @@ CustomerOrderNo:10929-BM-69131
 Principalplace ofbusiness of Supplier: Place OfSupply/PlaceOfDelivery
 
 | EXIDEINDUSTRIESLIMITED, | (0000069131)SNKTYRES&BATTERIES,70FEETROAD,NEWELLIS | E-waybill No: | 561857518244 |
-|-------------------------|----------------------------------------------------|---------------|--------------|
+| --- | --- | --- | --- |
 
 ,4thFloor,Navin'sPresidium,NelsonManickam NAGAR,，，5,GHOUSEENCLAVE,R.SNO:12,
 
@@ -39,16 +39,16 @@ Ph No.:,Fax No.: GSTIN:33BPZPS0887J1ZX
 
 GSTIN:33AAACE6641E1Z2 State:Tamilnadu,State Code:33.
 
-| SI.                       | HSN/SAC | MaterialCode/ | Qty     | UOM     | UnitPrice | GrossValue | Discount | Taxable | CGST  | SGST/UT-GST | IGST | GRAND   |
-|---------------------------|---------|---------------|---------|---------|-----------|------------|----------|---------|-------|-------------|------|---------|
-| Description               | INR     | Value         | Rate    | Amount  | Rate      | Amount     | Rate     | Amount  | Total |             |      |         |
-| 85071000FML5-MLDIN50 FG01 | 1.000   | PC            | 4808.59 | 4808.59 | 0.00      | 4808.59    | 14.00    | 673.00  | 14.00 | 673.00      | 0.00 | 6154.59 |
+| SI. | HSN/SAC | MaterialCode/ | Qty | UOM | UnitPrice | GrossValue | Discount | Taxable | CGST | SGST/UT-GST | IGST | GRAND |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Description | INR | Value | Rate | Amount | Rate | Amount | Rate | Amount | Total |
+| 85071000FML5-MLDIN50 FG01 | 1.000 | PC | 4808.59 | 4808.59 | 0.00 | 4808.59 | 14.00 | 673.00 | 14.00 | 673.00 | 0.00 | 6154.59 |
 
 FC.REDCONT/LID.WTHME,L-LOUT
 
-| TOTAL:                 | 1             | 4808.59 | 4808.59 | 673.00 | 673.00 | 6154.59 |
-|------------------------|---------------|---------|---------|--------|--------|---------|
-| Mode of Transport:Road | TOTAL WEIGHT: | 14.200  | KG      |        |        |         |
+| TOTAL: | 1 | 4808.59 | 4808.59 | 673.00 | 673.00 | 6154.59 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mode of Transport:Road | TOTAL WEIGHT: | 14.200 | KG |
 
 TotalInvoiceValue 6154.59
 
