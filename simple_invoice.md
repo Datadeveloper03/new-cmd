@@ -1,112 +1,94 @@
-# Invoice: qb.pdf
+# Invoice: document pdf.pdf
 
 ## Page 1
 
-QUOTATION FOR ROUTER
+DupficateforTransporter
 
-Ref:AMS/CBE/12V/23-24/S/V.1/6934e57d3350b7f29ee983f9 Date:25/12/2025
+EXIDE GST TAX INVOICE
 
-To,
+IRN:4a362f42b44f50f388fd4e85ef8f760db6bde4664e0327bb090d89e4195e0fd4
 
-MOLDWELLPRODUCTSINDIAPVTLTD
+Addressof theSupplier: DetailsofRecipient(Billedto)
 
-Coimbatore.
+ExideIndustriesItdMADURAl, (0000069131)SNKTYRES&BATTERIES,70FEETROAD,NEWELLIS
 
-Dear Sir,
+,B-6,SIDCOIndustrial Estate,-, NAGAR,，5,GHOUSEENCLAVE,R.SNO:12-
 
-Sub:for supply of 12V"ROUTER"long lifeSMF -VRLA UPSBatteries.
+Kappalur,Madurai,TamilNadu-625008 MADURAI-,625016,
 
-Winner with Amaron Quanta
+| PhNo.:6380865048,FaxNo.: | PhNo.:9094402317FaxNo.: | InvoiceNo    | ：1387549427 | IssueDate:06.08.2025 |
+|--------------------------|-------------------------|--------------|-------------|----------------------|
+| GSTIN:33AAACE6641E1Z2    | GSTIN:33BPZPS0887J1ZX   | SalesOrderNo | ：251031144  |                      |
 
-We acknowledge with thanks the receipt of your valuable enquiry. We are offering our prices for
+State:Tamilnadu,StateCode:33. Delivery No ：139656444
 
-supply of Amaron Quanta Batteries as follows...
+CustomerOrderNo:10929-BM-69131
 
-NewBatteryPriceSchedule
+Principalplace ofbusiness of Supplier: Place OfSupply/PlaceOfDelivery
 
-| SI. No. | HSN Code | Material Description | Basic | Qty | Amount | GST | TAX Amount Total |
-|---------|----------|----------------------|-------|-----|--------|-----|------------------|
+| EXIDEINDUSTRIESLIMITED, | (0000069131)SNKTYRES&BATTERIES,70FEETROAD,NEWELLIS | E-waybill No: | 561857518244 |
+|-------------------------|----------------------------------------------------|---------------|--------------|
 
-Amount
+,4thFloor,Navin'sPresidium,NelsonManickam NAGAR,，，5,GHOUSEENCLAVE,R.SNO:12,
 
-| 85072000 | Router | 725.00 | 3 | 4350.00 | 28% | 1218.00 | 5568.00 |
-|----------|--------|--------|---|---------|-----|---------|---------|
+Road,Aminjikarai, MADURAI,-625016.
 
-Total (A): 5568.00
+103-A,ABlock-,CHENNAl,TamilNadu-600029. Ph No.:9094402317,FaxNo.:
 
-I&C Charges (B):Nil
+Ph No.:,Fax No.: GSTIN:33BPZPS0887J1ZX
 
-Freight (C): Nil
+GSTIN:33AAACE6641E1Z2 State:Tamilnadu,State Code:33.
 
-Sub.Total(D=A+B+C):5568.00
+| SI.                       | HSN/SAC | MaterialCode/ | Qty     | UOM     | UnitPrice | GrossValue | Discount | Taxable | CGST  | SGST/UT-GST | IGST | GRAND   |
+|---------------------------|---------|---------------|---------|---------|-----------|------------|----------|---------|-------|-------------|------|---------|
+| Description               | INR     | Value         | Rate    | Amount  | Rate      | Amount     | Rate     | Amount  | Total |             |      |         |
+| 85071000FML5-MLDIN50 FG01 | 1.000   | PC            | 4808.59 | 4808.59 | 0.00      | 4808.59    | 14.00    | 673.00  | 14.00 | 673.00      | 0.00 | 6154.59 |
 
-OldBatteryPriceSchedule
+FC.REDCONT/LID.WTHME,L-LOUT
 
-| SI. No. | HSN Code | Material Description | Basic | Qty | Amount | Gst | TAX Amount Total |
-|---------|----------|----------------------|-------|-----|--------|-----|------------------|
+| TOTAL:                 | 1             | 4808.59 | 4808.59 | 673.00 | 673.00 | 6154.59 |
+|------------------------|---------------|---------|---------|--------|--------|---------|
+| Mode of Transport:Road | TOTAL WEIGHT: | 14.200  | KG      |        |        |         |
 
-Amount
+TotalInvoiceValue 6154.59
 
-TOTAL (E):708.00
+Carrier TOTAL AMOUNT :RUPEES SIX THOUSAND ONE HUNDRED FIFTY FOUR AND FIFTY NINE PAISE ONLY.
 
-Total Amount (F=D-E):4860.00
+SNK TYRES & BATTERIES
 
-The Agreed Terms and Conditions are:
+CGST AMOUNT:RUPEES SIXHUNDREDSEVENTYTHREEONLY.
 
-## Page 2
+Vehicle No:
 
-1. Taxes & Duties : as from above price schedule
+R.S.No: 12,70Feet Road
 
-2.Payment:100%ADVANCEPAYMENT
+RR/CNoteNo: Whetherthetaxisliableonreversecharge=NO
 
-3.Delivery:Immediate
+New-Ellis Hagar
 
-4. Delivery Charges : Nil
+MADURAI-625016/
 
-5.InstallationCharges:Freeof Cost(withinCoimbatore)
+HSN/SACCode/DeScription:-85071000/ELECTRICACCUMULATORSINCLUDINGSEPERATORSTHEREFOREWHETHER
 
-6.Validity: up to 24th JANUARY2026
+Theright,title&interestoftheCompanyoverthegoodsmanufacturedbyitaretransferred tothebuyeronce thepayment ismade&thestampedacceptedinvoiceisscanned backtotheCompany.Both
 
-7.Warranty:1YEARWARRANTY
+partiesmutuallyaccept that theCompany thenholdsthegoodsonbehalfofthebuyertillthelockdownislifted.Thebuyerhastheright toreselithegoodssoheldonitsbehalf bytheCompany.Afterthe
 
-8. The above prices are supply of Batteries only. If any Cables/lnterlink cables/Battery Rack is required, it will be
+E.&O.E.
 
-chargedextra asactual.
+lockdownislitedtheCompanyisobligatedtohandoverthegoodssoheldonbehatfofthebuyertothetransporterfordelivery.Thebuyerhastherighttodirectthetransporterformovementtransportationof
 
-9. Installation can be completed through our well-trained Engineers.
+For ExideIndustrjesLtd.
 
-10. If Amaron Quanta battery is mixed with any other make the warranty will be Null & Avoid.
+the goodstothe specified location(s)once thegoodsarehandedover to the transporter.The Company doesnot have anytitle whatsoever to thegoodsoranyrightstodirect/control any
 
-12. FORCE MAJEURE: By the reason of war, act of God, Government of Parliamentary restrictions,prohibitions or
+existingMarineInsurancePolicy of thecompany.
 
-enactment of any kind, strike, lockout, import or export regulation or any other cause, whatsoever, beyond our
+Regd.Office:EXIDEHouse,59E,ChowringheeRoad,Kolkata700020.Tel:033)22832120.CIN:L31402WB1947PLC014919Emailexideindustrieslimited@exide.co.inPAN:AAACE6641E
 
-control,weareunabletofulfill deliverywithinthestipulated timewhenand inthatcaseanyconflictarisingoutof our
+Authorised Signatory
 
-tender shall be void able at an option with no right on either of us to claim against the other in respect of any loss.
+Interest@24%P.Awillbepayable,if thisinvoiceisnotsettledwithin the due date.ThecourtsaloneinKolkata shallhave jurisdictionto try andentertainanysuitorproceedings arising out ofmatters
 
-ForAdhityaMarketing&Services,
-
-T.SAMINATHAN
-
-9789091073
-
-M/s.AdhityaMarketing&Services,BankDetail's
-
-No, 21AB BeneficiaryName: Adhitya Marketing&Services
-
-ANS illam Bank Name: HDFC Bank
-
-Meenachi Nagar Account Number: 50200000677699
-
-Ganapathy Bank Branch: Ambattur
-
-Coimbatore-641006 IFSC Code: HDFC 0001290
-
-| Email Id: | cbe.adhitya@gmail.com | Account Type: | CC |
-|-----------|-----------------------|---------------|----|
-
-GSTNumber:33ABIPL2366D2ZX
-
-MyContributiontoMyCountry-Iwilluseonly"MadeInIndia"Products
+pertaining to this invoice.
 
